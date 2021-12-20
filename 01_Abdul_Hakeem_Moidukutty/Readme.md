@@ -1,6 +1,6 @@
 # Burn
 ## Guided by  **Mr. Hyder Ali K. T.**
-This is the github repository for mini project of my MCA(2020-2021) course under KTU. The aim of the project is create a racing game titled **Burn** with the help of Unity.  g
+This is the github repository for mini project of my MCA(2020-2021) course under KTU. The aim of the project is create a racing game titled **Burn** with the help of Unity.  
 
 ### Introduction:
 
